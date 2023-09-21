@@ -19,5 +19,5 @@
 ### **5. Class Materials**
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
-| 1 | Code Cells | [variable, assign](example/1_CodeCells_Basic.ipynb)| 
-| 2 | Five Types of Data | [variable, assign](2_FiveTypesofData.ipynb)|  
+| 1 | Code Cells😊 | [variable, assign](example/1_CodeCells_Basic.ipynb)| 
+| 2 | Five Types of Data😊 | [Number, String, List, Tuple, Dictionary](2_FiveTypesofData.ipynb)|  

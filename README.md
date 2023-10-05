@@ -21,3 +21,4 @@
 |:--:|:--:|:--:|
 | 1 | Code Cells😊 | [variable, assign](example/1_CodeCells_Basic.ipynb)| 
 | 2 | Five Types of Data😊 | [Number, String, List, Tuple, Dictionary](example/2_FiveTypesofData.ipynb)|  
+| 2 | Indexing Slicing😊 | [Indexing of Sequence Data, Slicing of List data](example/3_Indexing_Slicing.ipynb)|  

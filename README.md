@@ -21,4 +21,6 @@
 |:--:|:--:|:--:|
 | 1 | Code Cells😊 | [variable, assign](example/1_CodeCells_Basic.ipynb)| 
 | 2 | Five Types of Data😊 | [Number, String, List, Tuple, Dictionary](example/2_FiveTypesofData.ipynb)|  
-| 2 | Indexing Slicing😊 | [Indexing of Sequence Data, Slicing of List data](example/3_Indexing_Slicing.ipynb)|  
+| 3 | Indexing & Slicing 📌✂️ | [:, forward, backward, link +, repeat *, length len()](example/3_Indexing_Slicing.ipynb)|
+| 4 | Statements 💡 | [if ~:](example/4_1_IfStatement.ipynb) [ for ~:](example/4_2_ForStatement.ipynb) [try~:](link) [while~:](link)|
+| 5 | Regular Expression 🔍 | [re, meta characters](link)|   

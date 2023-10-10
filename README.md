@@ -22,5 +22,5 @@
 | 1 | Code Cells 🐾 | [variable, assign](https://github.com/ms624atyale/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)|  
 | 2 | Five Types of Data 📋 | [number, string, list, tuple, dictionary](with_me/1_CodeCells_Basic.ipynb)|  
 | 3 | Indexing & Slicing 📌✂️ | [:, forward, backward, link +, repeat *, length len()](with_me/3_Indexing_Slicing.ipynb)|
-| 4 | Statements 💡 | [if ~:](with_me/4_1_IfStatement.ipynb) [ for ~:](with_me/4_2_ForStatement.ipynb) [try~:](with_me/4_3_tryExceptElse_Statement.ipynb) [while~:]
+| 4 | Statements 💡 | [if ~:](with_me/4_1_IfStatement.ipynb) [ for ~:](with_me/4_2_ForStatement.ipynb) [try~:](with_me/4_3_tryExceptElse_Statement.ipynb) [while~:](link)|
 | 5 | Regular Expression 🔍 | [re, meta characters](link)|

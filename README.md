@@ -25,6 +25,6 @@
 | 4 | Statements 💡 | [if ~:](with_me/4_1_IfStatement.ipynb) [ for ~:](with_me/4_2_ForStatement.ipynb) [try~:](with_me/4_3_tryExceptElse_Statement.ipynb) [while~:](with_me/4_4_WhileStatementwContinueBreak.ipynb)|
 | 5 | Regular Expression 🔍 | [re, meta characters](with_me/5_RegularExpression.ipynb)|
 
-#과제
+# 과제
 example파일을 확인해 주세요
 | # | Sessions | Keywords |

@@ -26,5 +26,10 @@
 | 5 | Regular Expression 🔍 | [re, meta characters](with_me/5_RegularExpression.ipynb)|
 
 # 과제
-example파일을 확인해 주세요
+**example파일을 확인해 주세요**
 | # | Sessions | Keywords |
+|:--:|:--:|:--:|
+| 1 | 10문제 1주차 | [1week](example/1week.ipynb)|  
+| 2 | 배열탐색 | [exists_arr.ipynb](example/exists_arr.ipynb)|  
+| 3 | 정렬 시간 측정 | [sort_runtime](example/sort_runtime.ipynb)|
+

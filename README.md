@@ -33,4 +33,5 @@
 | 2 | 배열탐색 | [exists_arr.ipynb](example/exists_arr.ipynb)|  
 | 3 | 정렬 시간 측정 | [sort_runtime](example/sort_runtime.ipynb)|
 | 4 | 연결 | [concat](example/concat.ipynb)|
+| 5 | 화살과 과녁의 거리 | [target](example/target.ipynb)|
 

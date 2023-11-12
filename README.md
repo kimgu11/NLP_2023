@@ -39,4 +39,5 @@
 | 4 | 연결 | [concat](example/concat.ipynb)|
 | 5 | 화살과 과녁의 거리 | [target](example/target.ipynb)|
 | 6 | 미로 생성과 최단거리 측정 | [maze](example/maze_runner.ipynb)|
+| 7 | 스프레드시트 연동 | [spreadsheet](example/spreadsheets1.ipynb)|
 

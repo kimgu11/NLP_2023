@@ -42,4 +42,5 @@
 | 7 | 스프레드시트 연동 | [spreadsheet](example/spreadsheets1.ipynb)|
 | 8 | 스프레드시트를 이용한 게임 | [game](example/spreadsheet2.ipynb)|
 | 9 | 합병 정렬 | [merge sort](example/merge_sort.ipynb)|
+| 10 | 퀵 정렬 | [quick sort](example/merge_sort.ipynb)|
 

@@ -27,7 +27,7 @@
 | 6 | Functions ⌛ | [function, factor](with_me/6_DefiningFunctions.ipynb)|  
 | 7 | Classes ⏰ | [class, method, member](with_me/7_Class_Method_Member_Object.ipynb)|  
 | 8 | Files 💾 | [txt, html](with_me/8_ReadTxtFilesImportingfrom_html.ipynb)|
-| 9 | Files 💾 | [txt, html](with_me/8_ReadTxtFilesImportingfrom_html.ipynb)|
+| 9 | Library | [Moduess,functions](with_me/9_InstallPackages_ImportModlues_CallFunctions_chatGPT.ipynb)|
 
 
 # 개인 과제
